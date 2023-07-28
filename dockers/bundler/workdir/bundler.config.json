@@ -1,0 +1,14 @@
+{
+  "mnemonic": "acquire place soccer color assist display excuse trust hello target wash issue",
+  "network": "https://polygon-mumbai.g.alchemy.com/v2/<API_KEY>",
+  "beneficiary": "0xed9588EFCF6d6c3d7Ca1A9fe89Ac6a06cD8204be",
+  "port": "8081",
+  "entryPoint": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
+  "minBalance": "0",
+  "gasFactor": "1",
+  "maxBundleGas": 5e6,
+  "minStake": "1",
+  "minUnstakeDelay": 0,
+  "autoBundleInterval": 3,
+  "autoBundleMempoolSize": 10
+}
